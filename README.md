@@ -1,2 +1,2 @@
-# python_file_management
+# Better Copy
  Some scripts to help with file transfers and such.
